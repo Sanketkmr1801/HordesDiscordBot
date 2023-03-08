@@ -4,7 +4,7 @@ const {CoreItem} = require('./pve')
 const {items} = require('./items')
 const puppeteer = require('puppeteer');
 
-token = "MTA4MTkwNTQzNjYwNjg2MTM2NA.Gw3MWE.eUFzqbxdS2Mgo43DZJIIvTF6IOddEH7oH68Pac"
+token = "blank"
 const sid = "s%3AIQG6VdkDIcxvNgwLVwBoka5roe74Abad.5YE71sARi5MTSDqU%2BgZ6AJDG9TnR2JhbbGXqprzEGtY"
 
 const prestigeBracket = [0, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, 10000, 11000, 12000, 13000, 14000]
